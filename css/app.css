@@ -1,0 +1,461 @@
+.display-inline {
+  display: inline-block;
+}
+
+.aligin-middle {
+  vertical-align: middle;
+}
+
+.header {
+  width: 1919.79px;
+  height: 191.72px;
+  padding: 69px 162px;
+}
+
+.header-div {
+  width: 1595.79px;
+  height: 53.72px;
+}
+
+.logo {
+  width: 198.79px;
+  height: 53.72px;
+  margin-right: 150px;
+}
+
+.li-nav {
+  margin-right: 30px;
+}
+
+.li-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #274c5b;
+}
+
+.section {
+  background-color: #f9f8f8;
+  padding-top: 49.28px;
+}
+
+.container {
+  width: 1400px;
+  height: 1050px;
+
+  margin: 0 260px 0 260px;
+}
+
+.left-container {
+  width: 671px;
+  height: 624px;
+  vertical-align: top;
+}
+
+.cont-title {
+  width: 208px;
+  height: 49px;
+
+  font-family: "Yellowtail";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 49px;
+
+  color: #7eb693;
+
+  margin: 0 463px 6px 0;
+}
+
+.cont-definition {
+  width: 524px;
+  height: 118px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 59px;
+
+  color: #274c5b;
+
+  margin: 0 147px 25px 0;
+}
+
+.cont-paragraph {
+  width: 671px;
+  height: 60px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 165.4%;
+
+  color: #525c60;
+
+  margin-bottom: 36px;
+}
+
+.cont-box {
+  width: 339px;
+  height: 81px;
+
+  background-color: #ececec;
+
+  margin: 0 332px 12px 0;
+
+  padding: 29px 31px 29px 27px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #274c5b;
+}
+
+.cont-box-paragraph {
+  width: 444px;
+  height: 60px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 165.4%;
+
+  color: #525c60;
+
+  margin: 0 167px 0 60px;
+}
+
+.right-container {
+  width: 678px;
+  height: 579px;
+}
+
+.botton-container {
+  width: 1118px;
+  height: 335px;
+
+  margin: 91px 141px 189px 91px;
+}
+
+.container-box {
+  width: 257px;
+  height: 335px;
+
+  background-color: #ffffff;
+}
+
+.active {
+  margin-right: 30px;
+}
+
+.botton-box-head {
+  width: 152px;
+  height: 29px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 25px;
+  line-height: 29px;
+
+  margin: 29px 83px 20px 22px;
+
+  color: #274c5b;
+}
+
+.botton-box-paragraph {
+  width: 184px;
+  height: 115px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 165.4%;
+
+  margin: 0 37px 142px 36px;
+
+  text-align: center;
+
+  color: #525c60;
+}
+
+.section-one {
+  width: 1920px;
+  height: 2961px;
+}
+
+.banner {
+  width: 1920px;
+  height: 450px;
+}
+
+.content {
+  width: 1400px;
+  height: 1901px;
+
+  margin: 182px 260px 97px 260px;
+}
+
+.content-img {
+  margin-bottom: 78px;
+}
+
+.content-header {
+  width: 517px;
+  height: 59px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 59px;
+
+  color: #274c5b;
+
+  margin: 0 651px 28px 232px;
+}
+
+.content-paragraph {
+  width: 936px;
+  height: 180px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 165.4%;
+
+  color: #525c60;
+
+  margin: 0 232px 70px 232px;
+}
+.content-img-one {
+  width: 379px;
+  height: 252px;
+
+  margin: 0 20px 28px 232px;
+}
+
+.content-img-two {
+  width: 379px;
+  height: 252px;
+
+  margin: 0 228px 70px 20px;
+}
+
+.content-box {
+  width: 537px;
+  height: 245px;
+  vertical-align: top;
+
+  background: #f9f8f8;
+}
+
+.box-one {
+  margin: 0 228px 28px 0;
+}
+
+.box-two {
+  margin: 0 0 70px 232px;
+}
+
+.content-box-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+
+  color: #274c5b;
+
+  margin-bottom: 7px;
+}
+
+.content-box-paragraph {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 165.4%;
+
+  color: #525c60;
+}
+
+.content-header-two {
+  width: 288px;
+  height: 41px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 35px;
+  line-height: 41px;
+
+  color: #274c5b;
+
+  margin: 0 880px 11px 232px;
+}
+
+.content-paragraph-two {
+  width: 936px;
+  height: 90px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 165.4%;
+
+  color: #525c60;
+
+  margin: 0 232px 97px 232px;
+}
+
+.newslatter {
+  width: 1400px;
+  height: 323px;
+  margin-bottom: 60px;
+}
+
+.footer {
+  width: 1920px;
+  height: 416px;
+
+  margin-top: 60px;
+}
+
+.footer-container {
+  width: 1404px;
+  height: 308px;
+
+  margin: 0 261px 61px 255px;
+}
+
+.contact-us {
+  width: 291px;
+  height: 308px;
+
+  margin-right: 142px;
+}
+
+.contact-us-header {
+  width: 149px;
+  height: 35px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+
+  color: #274c5b;
+
+  margin: 0 142px 33px 0;
+}
+
+.contact-list-nav {
+  width: 285px;
+  height: 240px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 165%;
+
+  color: #525c60;
+}
+
+.footer-organic {
+  vertical-align: top;
+  width: 543px;
+  height: 136.72px;
+
+  margin-right: 135px;
+}
+
+.footer-logo {
+  width: 198.79px;
+  height: 53.72px;
+
+  margin: 0 171.1px 23px 171.1px;
+}
+
+.footer-paragraph {
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+}
+
+.footer-utility {
+  width: 285px;
+  height: 304px;
+
+  vertical-align: top;
+}
+
+.utility-header {
+  width: 171px;
+  height: 35px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+
+  color: #274c5b;
+}
+
+.utility-list-nav {
+  width: 285px;
+  height: 245px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 272.9%;
+
+  color: #525c60;
+}
+
+.footer-style {
+  font-family: "Open Sans";
+  color: #525c60;
+}
+
+.copyright {
+  width: 1920px;
+  height: 47px;
+
+  border-top: 1px solid #D5D5D5;
+
+  padding-top: 17px;
+}
+
+.copyright-paragraph {
+  width: 699px;
+  height: 30px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 165.4%;
+
+  text-align: center;
+
+  color: #525c60;
+
+  margin: 0 610px 23px 611px;
+}
